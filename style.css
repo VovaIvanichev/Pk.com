@@ -95,10 +95,10 @@ footer p {
     left:5%;
     
 }
-.Noyt{
-color: #36bbce;
-right: 2%;
-left: 10%;
+.Noyt::before{
+width: 2%;
+height: 1%;
+img
 }
 .Nayshniku::before{
 width: 2%;
@@ -110,8 +110,8 @@ width: 2%;
 height: 1%;
 
 }
-.Klaviatyra:hover:before{
+.Klaviatyra::before{
 width: 2%;
 height: 1%;
-src: url(https://drive.google.com/file/d/139ul6YjTjd9Rf57sbZz00KpH8lZtuiEK/view?usp=share_link);
+
 }
