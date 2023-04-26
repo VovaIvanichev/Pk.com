@@ -1,0 +1,117 @@
+body {
+    font-family: sans-serif;
+    background-color: #FFAD40;
+    margin: 0;
+}
+
+header {
+    justify-content: space-between;
+    padding: 15px 20px 15px 20px;
+    margin-bottom: 20px;
+    display: flex;
+    background-color: black;
+    height: 40%;
+}
+
+.button {
+    background-color: #36bbce;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+    height: 80%;
+    margin-top: 1%;
+}
+
+nav {
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    justify-content: space-between;
+    display: flex;
+    
+}
+
+.nav-link {
+    font-size: 24px;
+    color: black;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 36px;
+    margin-top: ;
+    margin-bottom: ;
+}
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px;
+    display: flex;
+}
+
+article {
+    text-align: center;
+    background-color: white;
+    padding: 3%;
+    width: 400px;
+    margin:5% 1% 5% 5%;
+    background-color: ;
+}
+
+.article-but {
+    text-decoration: none;
+    background-color: #1B1BB3;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    padding: 3% 12% 3% 12%;
+}
+
+footer {
+    background-color: white;
+    padding: ;
+    display: flex;
+    
+}
+
+footer a {
+    margin-right: 5% ;
+}
+
+footer p {
+    font-size: 24px;
+}
+.navigation{
+    position: relative;
+    left:5%;
+    
+}
+.Noyt{
+color: #36bbce;
+right: 2%;
+left: 10%;
+}
+.Nayshniku::before{
+width: 2%;
+height: 1%;
+
+}
+.VebCamra::before{
+width: 2%;
+height: 1%;
+
+}
+.Klaviatyra:hover:before{
+width: 2%;
+height: 1%;
+src: url(https://drive.google.com/file/d/139ul6YjTjd9Rf57sbZz00KpH8lZtuiEK/view?usp=share_link);
+}
