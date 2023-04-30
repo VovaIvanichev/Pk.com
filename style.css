@@ -10,7 +10,7 @@ header {
     margin-bottom: 4%;
     display: flex;
     background-color: black;
-    height: 40%;
+    height: 8%;
 }
 
 .button {
@@ -62,7 +62,7 @@ article {
     text-align: center;
     background-color: white;
     padding: 3%;
-    width: 50%;
+    width: 40%;
     margin:5% 1% 5% 5%;
     background-color: ;
 }
