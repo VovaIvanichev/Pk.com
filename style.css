@@ -53,16 +53,16 @@ p {
 
 .info {
     flex-wrap: wrap;
-    width: 80%x;
+    width: 80%;
     margin-left: 10%;
-    display: flex;
+    display: block;
 }
 
 article {
     text-align: center;
     background-color: white;
     padding: 3%;
-    width: 50%;
+    width: 32%;
     margin:5% 1% 5% 5%;
     background-color: ;
 }
@@ -113,7 +113,9 @@ height: 1%;
 .Klaviatyra:hover::before{
 z-index: 1;
 display: inline-block;
-width: 15px;
+width: 40px;
+height: 40px;
+background-size: 40px 40px;
 content: "";background-image: url("https://drive.google.com/uc?export=view&id=139ul6YjTjd9Rf57sbZz00KpH8lZtuiEK");;
 }
 .nav-link:hover{
