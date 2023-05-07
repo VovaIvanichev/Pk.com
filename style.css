@@ -104,14 +104,14 @@ p {
     flex-wrap: wrap;
     width: 80%;
     margin-left: 10%;
-    display: block;
+    display: flex;
 }
 
 article {
     text-align: center;
     background-color: white;
     padding: 3%;
-    width: 32%;
+    width: 30%;
     margin:3%;
     background-color: ;
 }
